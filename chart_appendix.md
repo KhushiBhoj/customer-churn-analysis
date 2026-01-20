@@ -30,10 +30,11 @@
 
 ---
 
-### 5️⃣ Add-on Services vs Churn
-![Add-on Services vs Churn](images/addonservices_churn.png)
+### 5️⃣ Online Backup vs Churn
+![OnlineBackup vs Churn](images/onlinebackup_churn.png)
 
-- Customers with services like TechSupport or OnlineBackup are less likely to churn.
+- Customers without Online Backup have a higher churn rate.  
+- Offering Online Backup appears to help reduce churn risk.
 
 ---
 
@@ -56,10 +57,3 @@
 
 - Early-tenure churn is mostly among month-to-month customers.
 - Longer contracts reduce churn in higher tenure buckets.
-
-
-### 9️⃣ Online Backup vs Churn
-![OnlineBackup vs Churn](images/onlinebackup_churn.png)
-
-- Customers without Online Backup have a higher churn rate.  
-- Offering Online Backup appears to help reduce churn risk.
